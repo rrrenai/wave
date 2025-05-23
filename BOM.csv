@@ -1,0 +1,11 @@
+﻿Item,Purpose,Source, Price ,Quantity,Subtotal,,,
+Driver,Play audio,,$10.00 ,2,$20.00 ,,Total Price,$273.00 
+Amplifier,Boost sound / bass,,$10.00 ,2,$20.00 ,,,
+Raspberry Pi Zero,Run ML,,$15.00 ,1,$15.00 ,,,
+Tang Nano 9k,Process mics,,$30.00 ,1,$30.00 ,,,
+I2S Microphones,Take audio input,,$8.00 ,16,$128.00 ,,,
+Ear cup / case,,,$10.00 ,2,$20.00 ,,,
+Cushion / seal material,,,$10.00 ,2,$20.00 ,,,
+Head band,,,$10.00 ,1,$10.00 ,,,
+Wires,,, $-   ,999,$0.00 ,,,
+Battery,power,,$10.00 ,1,$10.00 ,,,
