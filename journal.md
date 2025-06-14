@@ -27,5 +27,7 @@ Here's what the headphones look like. I like the logo!
 ![](./journal_images/cad_right.PNG)
 ![](./journal_images/cad_se.PNG)
 
-**Total time spent: 2.5h**
+Also, I started the schematic. I imported the Raspberry Pi Zero W onto the schematic and tried finding the footprint for the Tang Nano 9k but I wasn't able to :/ Guess I'll continue tmr? 
+
+**Total time spent: 4.5h**
 ---
