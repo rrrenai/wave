@@ -13,7 +13,7 @@ Here's what I have so far:
 
 I want to create something that can listen to omnidirectional audio and significantly clean up the output. I hope to help people with hearing problems.
 
-**Total time spent: 1h**
+**Time spent: 1 h**
 ---
 # June 13th: Finished the headphone CAD
 
@@ -23,11 +23,44 @@ The Tang Nano 9k is the largest item I anticipate using and thus I designed the 
 ![Tang Nano 9K](./journal_images/tang_nano_size.png)
 
 Here's what the headphones look like. I like the logo!
-![](./journal_images/cad_top.PNG)
-![](./journal_images/cad_right.PNG)
-![](./journal_images/cad_se.PNG)
+![top](./journal_images/cad_top.PNG)
+![side](./journal_images/cad_right.PNG)
+![southeast](./journal_images/cad_se.PNG)
 
 Also, I started the schematic. I imported the Raspberry Pi Zero W onto the schematic and tried finding the footprint for the Tang Nano 9k but I wasn't able to :/ Guess I'll continue tmr? 
 
-**Total time spent: 4.5h**
+**Time spent: 4.5 h**
+---
+# June 14th: Continued working on Schem
+
+There isn't any existing footprint for the Tang Nano 9k so I figured the Gowin chip it uses would be a sufficient representation of the board. Here's what the schem looks like so far::
+![Schem on  6/14/25](./journal_images/6-14-25_schem.PNG)
+
+I also did research on the most appropriate driver for my application. Here are some quick facts:
+Dynamic (Most common)
+- Electromagnet causes voice coil to vibrate for sound waves
+- What does resistance have to do with the quality?
+
+Planar magnetic
+- Need amp
+
+Balanced armature
+- Small build for in-=ear monitors
+- Pivot between two magnets to make sound
+
+Electrostatic
+- Static charge applied to thin film between two pieces of metal
+- Free from secondary distortion
+- Expensive compared to others
+
+Piezoelectoric
+- Voltage applied to crystal or ceramic
+
+Bone-Conduction
+- Vibrate bones
+- Sound leakage
+
+I think dynamic drivers are the best for me since I want to focus more on the software aspect rather than experiment with driver quality. Dynamic drivers are well established and have tons of documentation. However, I still need to figure out which model to buy...
+
+**Time spent: 1.5 h**
 ---
