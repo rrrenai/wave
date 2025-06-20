@@ -14,6 +14,7 @@ Here's what I have so far:
 I want to create something that can listen to omnidirectional audio and significantly clean up the output. I hope to help people with hearing problems.
 
 **Time spent: 1 h**
+
 ---
 # June 13th: Finished the headphone CAD
 
@@ -30,6 +31,7 @@ Here's what the headphones look like. I like the logo!
 Also, I started the schematic. I imported the Raspberry Pi Zero W onto the schematic and tried finding the footprint for the Tang Nano 9k but I wasn't able to :/ Guess I'll continue tmr? 
 
 **Time spent: 4.5 h**
+
 ---
 # June 14th: Continued working on Schem
 
@@ -63,4 +65,19 @@ Bone-Conduction
 I think dynamic drivers are the best for me since I want to focus more on the software aspect rather than experiment with driver quality. Dynamic drivers are well established and have tons of documentation. However, I still need to figure out which model to buy...
 
 **Time spent: 1.5 h**
+
 ---
+# June 19th: FINISHED Schem
+
+OH MY GOD THIS TOOK ALL DAY. 
+![schem](./journal_images/6-19-25_schem.PNG)
+
+I updated the BOM with the component names and found footprints for all essential items. This in itself took maybe 2 hours to finish especially because I was a little indecisive and sometimes the footprint was just pay-walled :/
+
+Anyway, after I finished finding all the kicad.sch files, I looked up datasheets an added it to the "reference_files" folder. I used these datasheets in figuring out how to wire these items. 
+
+My BOM requests 16 I2S mics but I only wired 4 on the schem to conserve space. All of them would be wired in the same way and do essentially the same operation. 
+
+There's a bunch of software things I need to figure out once I get all the stuff so yea.
+
+**Time spent: 3.5 h**
