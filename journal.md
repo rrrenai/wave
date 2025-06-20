@@ -1,9 +1,12 @@
 ---
 title: "~ wave ~"
 author: "rrrenai"
-description: "The ultimate beamforming headphones"
+description: "Directional headphones to assist in multi-speaker selection"
 created_at: "2024-05-22"
 ---
+# Total time spent: 10.5
+(Likely will increase after I get the parts cuz FPGAs are kind of a nightmare)
+
 # May 22nd: Starting!
 
 Hello, today I started writing my project pitch. I created my BOM and look at some other projects for inspiration.
