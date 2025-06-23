@@ -84,3 +84,17 @@ My BOM requests 16 I2S mics but I only wired 4 on the schem to conserve space. A
 There's a bunch of software things I need to figure out once I get all the stuff so yea.
 
 **Time spent: 3.5 h**
+
+---
+# June 22nd: Revised schem
+
+My entry was rejected I think? But I needed to simplify it a bit anyway. 
+
+I think I'm gonna move away from FPGA to make the project more feasible. Cool idea but idk how to implement it.
+
+Here's the schematic as of now:
+![schem](./journal_images/6-22-25_schem.png)
+
+I reverted back to an ESP32-S3 cuz that's what I'm familiar with. Plus, it has TDM support so I can get low latency audio using I2S mics. Most of the time spent today was just on researching appropriate approaches to this project.
+
+**Time spent: 3.5 h**
