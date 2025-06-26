@@ -98,3 +98,20 @@ Here's the schematic as of now:
 I reverted back to an ESP32-S3 cuz that's what I'm familiar with. Plus, it has TDM support so I can get low latency audio using I2S mics. Most of the time spent today was just on researching appropriate approaches to this project.
 
 **Time spent: 3.5 h**
+
+---
+# June 25th: Re-re-direction back to FPGA
+
+Ok I just thought a lot about what my project means to me and I think a lot of it is just learning more and I'd like to do that with an FPGA. I have a better idea of how I'm gonna approach this project and refined some of the things I'm including.
+
+MAJOR change: using a TDM mic array
+* INMP441 didn't have a good footprint so I looked around and found the ICS 43434 which I thought did what I wanted but I found that wiring TDM is better (time dimensional multiplexing)
+* ok THUS I shifted to using ICS 52000
+* also new BLE module cuz I couldnt for the life of me find the footprint for the one I chose initially (prob cuz I just took whatever was on ebay)
+
+Schems as of today: 
+![first page](./journal_images/6-25-25_schem_1.png)
+![second page](./journal_images/6-25-25_schem_2.png)
+* I learned abt hierarchical schems today!!
+
+**Time spent: 5 h**
