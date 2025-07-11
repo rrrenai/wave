@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="test_fifo" Register="248" Alu="184" Lut="577" MULTALU36X18="2" T_Register="978(248)" T_Alu="242(184)" T_Lut="1300(577)" T_MULTALU36X18="2(2)" T_Bsram="8(0)" T_Ssram="6(0)">
+ <SubModule name="rstn_gen" Register="17" Alu="15" Lut="6" T_Register="17(17)" T_Alu="15(15)" T_Lut="6(6)"/>
+ <SubModule name="u_fifo_hs_top" Register="93" Alu="29" Lut="102" Bsram="2" Ssram="6" T_Register="93(93)" T_Alu="29(29)" T_Lut="102(102)" T_Bsram="2(2)" T_Ssram="6(6)"/>
+ <SubModule name="gw_gao_gvio_inst_0" Register="620" Alu="14" Lut="615" Bsram="6" T_Register="620(620)" T_Alu="14(14)" T_Lut="615(615)" T_Bsram="6(6)"/>
+</Module>

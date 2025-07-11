@@ -1,0 +1,2 @@
+`define GVIO0_DEF_PROBE_IN0
+`define GVIO0_DEF_PROBE_OUT0
