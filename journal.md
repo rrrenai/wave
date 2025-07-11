@@ -115,3 +115,20 @@ Schems as of today:
 * I learned abt hierarchical schems today!!
 
 **Time spent: 5 h**
+
+---
+# July 2/3/4 Redoing all PCB and fitting it into Onshape
+
+Ngl I completely forgot to do journals. But I did redo the entire pcb, added tap holes, made an actual ovalar edge cut using a vector, and crashed tfo when I discovered it was still too big :)
+
+![3D Front](./journal_images/7-10-25_3D.png)
+![3D Back](./journal_images/7-10-25_3D_back.png)
+![PCB](./journal_images/7-10-25_PCB.png)
+![Assembly left](./journal_images/7-10-25_Assembly_LEFT.png)
+
+Oh yea also I changed the schem a lot so that I can order the Tang Nano 9k and just plug it in to my pcb.
+![schem 1](./journal_images/7-10-25_schem1.png)
+![schem 2](./journal_images/7-10-25_schem2.png)
+I made a hierachical schem and broke out the ICS-52000 MEMS mics onto the second page. Each side of the PCB is connected with JST connectors, which will run via the head band and be hidden with a layer of cotton batting.
+
+**Time spent: 10 h**
