@@ -132,3 +132,10 @@ Oh yea also I changed the schem a lot so that I can order the Tang Nano 9k and j
 I made a hierachical schem and broke out the ICS-52000 MEMS mics onto the second page. Each side of the PCB is connected with JST connectors, which will run via the head band and be hidden with a layer of cotton batting.
 
 **Time spent: 10 h**
+
+--- 
+# July 10th: Finally wrapping this up and hopefully passing the grant!!!
+
+Added my Verilog files from the GOWIN EDA app (top file found in `./project_files/gowin/wave/src/top.v`). I also touched up a little bit of the Onshape file, produced the gerber files, and will update the BOM in a bit.
+
+**Time spent: 1 h**
