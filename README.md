@@ -17,19 +17,19 @@ The headphones have 2 half PCBs, which are connected via 3 JST cables. It collec
 |-----------------------------|-----------------------------------|----------|----------------------------------------------|
 | Ear cup / case              |  $              10.00             | 1        |  $                             10.00         |
 | Head band                   |  $                       10.00    | 1        |  $                             10.00         |
-| Bluetooth                   |  $                          6.05  | 1        |  $                               6.05        |
-| Aliexpress shipping         |  $                1.99            | 1        |  $                               1.99        |
-| Aliexpress tax              |  $                0.36            | 1        |  $                               0.36        |
-| Cushion / seal material     |  $              22.45             | 2        |  $                             44.90         |
-| LiPo                        |  $              23.62             | 1        |  $                             23.62         |
-| Sound amp                   |  $                5.49            | 2        |  $                             10.98         |
-| Tang Nano 9k                |  $              23.25             | 1        |  $                             23.25         |
+| Bluetooth                   |  $                          1.79  | 1        |  $                               1.79        |
+| Aliexpress shipping         |  $                6.63            | 1        |  $                               6.63        |
+| Aliexpress tax              |  $                4.42            | 1        |  $                               4.42        |
+| Cushion / seal material     |  $                5.26            | 2        |  $                             10.52         |
+| LiPo                        |  $                4.95            | 2        |  $                               9.90        |
+| Sound amp                   |  $                1.26            | 1        |  $                               1.26        |
+| Charge Protection IC        |  $                1.99            | 1        |  $                               1.99        |
+| Tang Nano 9k                |  $              18.17             | 1        |  $                             18.17         |
 | Amazon Shipping / Handling  |  $              12.98             | 1        |  $                             12.98         |
 | Amazon Estimated Tax        |  $                9.11            | 1        |  $                               9.11        |
 | Audio driver for headphones |  $                       10.69    | 2        |  $                             21.38         |
 | Digikey Shipping            |  $                6.99            | 1        |  $                               6.99        |
 | Digikey Tarriff             |  $                2.14            | 1        |  $                               2.14        |
-| Charge Protection IC        |  $                2.27            | 1        |  $                               2.27        |
 | Ebay shipping               |  $                4.95            | 1        |  $                               4.95        |
 | Ebay tax                    |  $                0.64            | 1        |  $                               0.64        |
 | Buttons                     |  $                          5.00  | 4        |  $                             20.00         |
@@ -37,4 +37,4 @@ The headphones have 2 half PCBs, which are connected via 3 JST cables. It collec
 | PCB (L + R)                 |  $                8.27            | 1        |  $                               8.27        |
 | I2S Microphones             |  $                2.84            | 10       |  $                             28.40         |
 | Mouser shipping             |  $                7.99            | 1        |  $                               7.99        |
-|                             |                                   | TOTAL    |  $                          256.27           |
+| TOTAL                       |                                   |          |  $                          197.53           |
