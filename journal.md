@@ -4,7 +4,7 @@ author: "rrrenai"
 description: "Directional headphones to assist in multi-speaker selection"
 created_at: "2024-05-22"
 ---
-# Total time spent: 10.5
+# Total time spent: 30
 (Likely will increase after I get the parts cuz FPGAs are kind of a nightmare)
 
 # May 22nd: Starting!
