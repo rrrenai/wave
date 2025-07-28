@@ -4,7 +4,7 @@ author: "rrrenai"
 description: "Directional headphones to assist in multi-speaker selection"
 created_at: "2024-05-22"
 ---
-# Total time spent: 10.5
+# Total time spent: 34.5
 (Likely will increase after I get the parts cuz FPGAs are kind of a nightmare)
 
 # May 22nd: Starting!
@@ -137,5 +137,15 @@ I made a hierachical schem and broke out the ICS-52000 MEMS mics onto the second
 # July 10th: Finally wrapping this up and hopefully passing the grant!!!
 
 Added my Verilog files from the GOWIN EDA app (top file found in `./project_files/gowin/wave/src/top.v`). I also touched up a little bit of the Onshape file, produced the gerber files, and will update the BOM in a bit.
+
+**Time spent: 1 h**
+
+--- 
+#July 28th: Moved caps
+
+I'm so done. This is like my fourth time submitting. Please PLEASE go thru.
+
+![](./journal_images/7-28-25_3D.png)
+![](./journal_images/7-28-25_3D_back.png)
 
 **Time spent: 1 h**
