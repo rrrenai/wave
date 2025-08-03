@@ -149,3 +149,10 @@ I'm so done. This is like my fourth time submitting. Please PLEASE go thru.
 ![](./journal_images/7-28-25_3D_back.png)
 
 **Time spent: 1 h**
+
+---
+#August 2nd: Ordering / Part Update
+
+I ordered the Mouser / Digikey items. Need to re-review? cuz adding stuff to Aliexpress order.
+
+**Time spent: 1 h**

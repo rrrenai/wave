@@ -2478,6 +2478,28 @@
 		)
 		(uuid "fdadbfdf-65e4-40a3-a434-02415d07cadf")
 	)
+	(global_label "IN_3V3"
+		(shape input)
+		(at 95.25 40.64 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "29b1d33e-b46e-45c8-9bb7-db0e0e368192")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 95.25 31.2443 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "WSO Mk5"
 		(shape bidirectional)
 		(at 135.89 86.36 180)
@@ -2590,7 +2612,7 @@
 	)
 	(global_label "WSO Mk7"
 		(shape bidirectional)
-		(at 171.45 121.92 0)
+		(at 171.45 120.65 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2600,7 +2622,7 @@
 		)
 		(uuid "80f377d2-51a1-4c1a-a769-7577daf1483d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.1945 121.92 0)
+			(at 184.1945 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2612,7 +2634,7 @@
 	)
 	(global_label "WSO Mk6"
 		(shape bidirectional)
-		(at 135.89 119.38 180)
+		(at 135.89 118.11 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2622,7 +2644,7 @@
 		)
 		(uuid "8c4f766d-610b-4033-9ea6-6a212c9392bb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 123.1455 119.38 0)
+			(at 123.1455 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2722,7 +2744,7 @@
 	)
 	(global_label "WSO Mk7"
 		(shape bidirectional)
-		(at 135.89 154.94 180)
+		(at 135.89 153.67 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2732,7 +2754,7 @@
 		)
 		(uuid "b4e3d493-74f0-47a5-8096-483c13fc03fb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 123.1455 154.94 0)
+			(at 123.1455 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2777,28 +2799,6 @@
 		(uuid "d574b721-10df-4a6f-9eed-99e692390830")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 184.1945 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Vout from Bat reg"
-		(shape input)
-		(at 95.25 40.64 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d82d15dc-276b-403a-adc2-be5cf9222d56")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 95.25 20.117 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2856,7 +2856,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 82.55 93.0148 0)
 			(effects
 				(font
@@ -2908,7 +2908,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "09a8d24d-ed3b-443b-b14b-e11c4301b551")
-		(property "Reference" "J7"
+		(property "Reference" "J6"
 			(at 193.04 17.1449 90)
 			(effects
 				(font
@@ -2962,7 +2962,7 @@
 		(instances
 			(project "highway_wave"
 				(path "/4d93a0f5-0323-4b77-816b-e07a1b9b3cd9/c0d35520-d176-4b46-91a1-98f70e5c8801"
-					(reference "J7")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -3274,7 +3274,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 179.07 142.5448 0)
 			(effects
 				(font
@@ -3554,7 +3554,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 82.55 160.3248 0)
 			(effects
 				(font
@@ -3622,7 +3622,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 82.55 57.4548 0)
 			(effects
 				(font
@@ -4541,7 +4541,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 179.07 75.2348 0)
 			(effects
 				(font
@@ -4609,7 +4609,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 179.07 39.6748 0)
 			(effects
 				(font
@@ -4661,7 +4661,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc414349-a6e9-4670-9aaa-aa79c53ef324")
-		(property "Reference" "J6"
+		(property "Reference" "J4"
 			(at 120.65 17.1449 90)
 			(effects
 				(font
@@ -4715,7 +4715,7 @@
 		(instances
 			(project "highway_wave"
 				(path "/4d93a0f5-0323-4b77-816b-e07a1b9b3cd9/c0d35520-d176-4b46-91a1-98f70e5c8801"
-					(reference "J6")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -4799,7 +4799,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d598916a-e458-42e8-8041-049a82826070")
-		(property "Reference" "J5"
+		(property "Reference" "J8"
 			(at 64.77 34.9249 90)
 			(effects
 				(font
@@ -4853,7 +4853,7 @@
 		(instances
 			(project "highway_wave"
 				(path "/4d93a0f5-0323-4b77-816b-e07a1b9b3cd9/c0d35520-d176-4b46-91a1-98f70e5c8801"
-					(reference "J5")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -5097,7 +5097,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 82.55 124.7648 0)
 			(effects
 				(font
@@ -5165,7 +5165,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 179.07 106.9848 0)
 			(effects
 				(font
@@ -5430,7 +5430,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe9e3d0f-eab4-4559-af78-bbac8f6291f2")
-		(property "Reference" "J9"
+		(property "Reference" "J10"
 			(at 158.75 17.1449 90)
 			(effects
 				(font
@@ -5484,7 +5484,7 @@
 		(instances
 			(project "highway_wave"
 				(path "/4d93a0f5-0323-4b77-816b-e07a1b9b3cd9/c0d35520-d176-4b46-91a1-98f70e5c8801"
-					(reference "J9")
+					(reference "J10")
 					(unit 1)
 				)
 			)
